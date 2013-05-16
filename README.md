@@ -4,7 +4,7 @@ monkey.sublime-linux
 This bundle allow to use [Sublime Text](http://www.sublimetext.com) for Linux as an IDE for the [monkey programming language](http://www.monkeycoder.co.nz) 
 
 
-monkey.sublime-linux is modification of [monkey.sublime](https://github.com/gingerbeardman/monkey.sublime) created by Matt Sephton.
+monkey.sublime-linux is modification of [monkey.sublime](https://github.com/gingerbeardman/monkey.sublime).
 
 monkey.sublime-linux support linux only. 
 
