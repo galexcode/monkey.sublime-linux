@@ -1,0 +1,6 @@
+{
+	"cmd": ["~/Monkey/bin/trans_linux", "-target=Html5_Game", "-run", "\"$file\""],
+	"working_dir": "${project_path:${folder:${file_path}}}",
+	"file_regex": "(...*?)<([0-9]*)>",
+	"selector": "source.monkey"
+}
