@@ -28,6 +28,9 @@ Or you can edit files Monkey - android.sublime-build, Monkey - flash.sublime-bui
 Just replace ~/Monkey/bin/trans_linux in string "cmd": ["~/Monkey/bin/trans_linux", "-target=Html5_Game", "-run", "\"$file\""], with your path. 
 For example: "cmd": ["/usr/bin/trans_linux", "-target=Html5_Game", "-run", "\"$file\""]
 
+## Platforms support
+monkey.sublime-linux allow to build html5 games.
+build-files for other platform will be corrected and re-uploaded soon. 
 
 ## Feautures
 Read about monkey.sublime feautures you can on [monkey.sublime page](https://github.com/gingerbeardman/monkey.sublime). 
